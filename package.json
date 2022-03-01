@@ -1,0 +1,24 @@
+{
+  "name": "pm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.js",
+  "engines":{
+	"node": "16.x",
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pentadothaxor/pm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pentadothaxor/pm/issues"
+  },
+  "homepage": "https://github.com/pentadothaxor/pm#readme"
+}
